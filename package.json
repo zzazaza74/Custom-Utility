@@ -1,0 +1,11 @@
+{
+  "name": "com.test.utility",
+  "displayName": "Custom Utility",
+  "version": "1.8.18",
+  "unity": "2020.3",
+  "description": "Utility Sample.",
+  "keywords": [
+    "utility"
+  ]
+
+}
