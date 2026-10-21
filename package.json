@@ -1,11 +1,18 @@
 {
   "name": "com.test.utility",
   "displayName": "Custom Utility",
-  "version": "1.8.18",
-  "unity": "2020.3",
+  "version": "1.0.1",
+  "unity": "2022.3",
   "description": "Utility Sample.",
   "keywords": [
     "utility"
+  ],
+  "samples": [
+    {
+      "displayName": "Custom Utility Sample",
+      "description": "A set of examples custom Utility.",
+      "path": "Samples~/Demo"
+    }
   ]
 
 }
